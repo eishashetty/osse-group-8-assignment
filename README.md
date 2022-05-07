@@ -7,18 +7,19 @@ Gaming App
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
 
 ## General Info
 ***
-In this project we have created a Gaming Application which will provide the user to play a host of different games.
+In this project we have created a Gaming Application which will provide the user to play a host of different games like 
+>Red Light Green Light
+>Tic Tac Toe
+>Cards
 
 ## Technologies
 ***
 A list of technologies used within the project:
 * [Java]
 * [.net]
-
 
 ## Installation
 ***
@@ -30,7 +31,6 @@ $ java tictactoe
 
 ## Collaboration
 ***
-
 > Fork the project from https://github.com/nits005/osse-group-8-assignment
 > Clone the project
 > Create a branch
